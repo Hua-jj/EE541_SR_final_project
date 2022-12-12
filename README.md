@@ -1,5 +1,21 @@
 # EE541_SR_final_project
 
+## Repository Structure
+
+```
+├── FSRCNN
+│   ├── FSRCNN_model.py
+│   ├── FSRCNN_preprocess.py
+│   ├── FSRCNN_train.py
+│   └── FSRCNN.ipynb
+├── SRGAN
+│   ├── SRGAN X2.ipynb
+│   ├── SRGAN X3.ipynb
+│   └── SRGAN X4.ipynb
+├── BASE.ipynb
+└── README.md
+```
+
 ## Baseline: bicubic interplolation:
 
 [baseline model](BASE.ipynb)
